@@ -16,7 +16,7 @@
 ## Other sites I have profiles in:
 - [LinkedIn](https://www.linkedin.com/in/ipardogranillo/)
 - [HackerRank](https://www.hackerrank.com/ipardogranillo)
-- [Codeawrs](https://www.codewars.com/users/ipardogranillo)
+- [Codewars](https://www.codewars.com/users/ipardogranillo)
 <!---
 ipardogranillo/ipardogranillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
